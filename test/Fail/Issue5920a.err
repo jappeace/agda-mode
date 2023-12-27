@@ -1,3 +1,0 @@
-Issue5920a.agda:8,8-9
-(f : P c) → R is not usable at the required modality @ω
-when checking the definition of R

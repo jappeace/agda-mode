@@ -1,2 +1,0 @@
-postulate
-  @flat A : Set

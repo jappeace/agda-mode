@@ -1,3 +1,0 @@
-AmbiguousQuote.agda:11,8-16
-quote: Ambiguous name: [AmbiguousQuote.A1.AC, AmbiguousQuote.A2.AC]
-when checking that the expression quote AC has type _5

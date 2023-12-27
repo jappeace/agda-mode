@@ -1,3 +1,0 @@
-Issue933.agda:20,38-47
-The projections RGraph.R and RGraph.O do not match
-when checking that the expression Γ.refl γo has type Γ.O

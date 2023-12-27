@@ -1,2 +1,0 @@
-postulate
-  @tick _ : Set

@@ -1,7 +1,0 @@
-AGDA_FAILURE
-
-ret > ExitFailure 42
-out > Issue3027b.agda:30,13-17
-out > f false 1 != zero of type Nat
-out > when checking that the expression refl has type ?X 1 ≡ D 0
-out >

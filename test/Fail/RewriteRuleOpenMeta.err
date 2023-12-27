@@ -1,3 +1,0 @@
-RewriteRuleOpenMeta.agda:13,1-18
-r  is not a legal rewrite rule, since it contains the unsolved meta variable(s) _7
-when checking the pragma REWRITE r

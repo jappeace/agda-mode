@@ -1,2 +1,0 @@
-postulate
-  @lock _ : Set

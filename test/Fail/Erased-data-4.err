@@ -1,3 +1,0 @@
-Erased-data-4.agda:7,5-6
-Identifier D is declared erased, so it cannot be used here
-when checking that the expression D has type Set

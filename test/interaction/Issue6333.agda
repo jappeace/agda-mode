@@ -1,2 +1,0 @@
--- This file intentionally left blank
--- just to make the test script recognize a testcase

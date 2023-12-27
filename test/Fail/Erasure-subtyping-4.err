@@ -1,3 +1,0 @@
-Erasure-subtyping-4.agda:4,11-12
-Variable x is declared erased, so it cannot be used here
-when checking that the expression x has type A

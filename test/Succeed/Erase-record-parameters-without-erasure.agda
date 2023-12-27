@@ -1,1 +1,0 @@
-{-# OPTIONS --erase-record-parameters #-}

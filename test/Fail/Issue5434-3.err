@@ -1,3 +1,0 @@
-Issue5434-3.agda:6,5-31
-(@0 A : Set) → A → D A is not usable at the required modality @ω
-when checking the constructor c in the declaration of D

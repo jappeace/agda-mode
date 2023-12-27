@@ -1,4 +1,0 @@
-noLevelUnivData.agda:5,6-7
-The universe LevelUniv of D
-does not admit data or record declarations
-when checking the definition of D

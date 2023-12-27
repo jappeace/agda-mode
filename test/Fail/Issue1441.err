@@ -1,4 +1,0 @@
-Issue1441.agda:13,3-7
-Set₂ is not less or equal than Set₁
-when checking that the type Type of an argument to the constructor
-sup' fits in the sort Set₁ of the datatype.

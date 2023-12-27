@@ -453,9 +453,9 @@ agda2-include-dirs is not bound." :warning))
          (version (and (string-match "^Agda version \\([0-9.]+\\)" output)
                        (match-string 1 output))))
     (unless (equal version agda2-version)
-      (error "The Agda mode's version (%s) does not match that of %s (%s)."
+      (display-warning :warning (format-message "The Agda mode's version (%s) does not match that of %s (%s)."
              agda2-version
-             agda2-program-name (or version "unknown"))))
+             agda2-program-name (or version "unknown")))))
 
   (let ((all-program-args (cons "--interaction" agda2-program-args)))
 
